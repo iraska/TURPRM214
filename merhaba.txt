@@ -1,2 +1,1 @@
 Debug.Log("Merhaba Dünya!");
-Debug.Log("Unity bir harika!");
